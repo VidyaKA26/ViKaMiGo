@@ -1,0 +1,91 @@
+text,intent
+What types of electric heaters do you have?,Product Inquiry
+Can you tell me about your smart thermostats?,Product Inquiry
+Do you sell solar panels?,Product Inquiry
+What are the features of your electric stove models?,Product Inquiry
+Do you have any eco-friendly appliances?,Product Inquiry
+What is the power rating of your solar panels?,Product Inquiry
+Can you explain how your smart meters work?,Product Inquiry
+Do you have any recommendations for electric ovens?,Product Inquiry
+What's the price range for your electric water he,Product Inquiry
+Are your electric cooktops energy efficient?,Product Inquiry
+Where is my order?,Order Inquiry
+Has my electric water heater been shipped?,Order Inquiry
+How do I track my recent purchase?,Order Inquiry
+When will my order arrive?,Order Inquiry
+Can you provide the shipping details?,Order Inquiry
+What's the status of my replacement ,Order Inquiry
+My tracking number isn't working; can you,Order Inquiry
+Did you dispatch my solar panel order?,Order Inquiry
+Can I change the shipping address for my order?,Order Inquiry
+I want to cancel my current order; is it possible?,Order Inquiry
+Can I download your product catalog?,Catalog Inquiry
+Do you have a list of energy-efficient appliances?,Catalog Inquiry
+Can I see a catalog of all your LED bulbs?,Catalog Inquiry
+Do you provide printed catalogs?,Catalog Inquiry
+Are there catalogs for electric panel upgrades?,Catalog Inquiry
+Where can I find your latest product catalog online?,Catalog Inquiry
+Do you have a catalog for commercial electric equipment?,Catalog Inquiry
+Can I get a catalog showing your solar panel range?,Catalog Inquiry
+Is there a section for small appliances in your catalog?,Catalog Inquiry
+Do you offer regional catalogs with localized products?,Catalog Inquiry
+My smart thermostat isn't working. What should,Technical Support
+How do I reset my electric panel?,Technical Support
+The heater I purchased keeps turning off unexpectedly.,Technical Support
+My solar panel system isn't generating power;,Technical Support
+The display on my smart meter has stopped working.,Technical Support
+How do I configure the Wi-Fi on my smart thermostat?,Technical Support
+My electric stove isn't heating up pro,Technical Support
+The circuit breaker trips when I use your water heater.,Technical Support
+How do I troubleshoot my LED bulb flickering issue?,Technical Support
+My electric generator doesn't start; what are the ,Technical Support
+I want to return the electric kettle I bought.,Return Request
+How do I initiate a return for a faulty product?,Return Request
+What is your return policy for damaged items?,Return Request
+Can I return an unused electric stove?,Return Request
+Do I need the original box for a product return?,Return Request
+What's the deadline for returning an,Return Request
+Can I return a product purchased during a sale?,Return Request
+I received a wrong item; can I send it back?,Return Request
+The electric heater arrived broken; I need to return it.,Return Request
+Do you cover return shipping for defective products?,Return Request
+When will I get my refund?,Refund Inquiry
+How do I request a refund for my order?,Refund Inquiry
+I returned an item but haven't received my money bac,Refund Inquiry
+Can I get a refund for a defective product?,Refund Inquiry
+What's your refund policy for returned ,Refund Inquiry
+Do you refund shipping charges as well?,Refund Inquiry
+How long does the refund process take?,Refund Inquiry
+Can I get a partial refund for a damaged product?,Refund Inquiry
+My refund hasn't been credited to my accoun,Refund Inquiry
+Are refunds issued to the original payment method only?,Refund Inquiry
+Why is my bill so high this month?,Billing Inquiry
+Can I get a detailed breakdown of my bill?,Billing Inquiry
+I was charged twice for my order. Please help!,Billing Inquiry
+What is this extra charge on my invoice?,Billing Inquiry
+Can you send me a copy of my latest bill?,Billing Inquiry
+Do you offer paperless billing options?,Billing Inquiry
+I want to update the billing address for my account.,Billing Inquiry
+Why was my credit card declined for billing?,Billing Inquiry
+Can you explain the taxes included in my bill?,Billing Inquiry
+What is the billing cycle for subscriptions?,Billing Inquiry
+How can I save energy using your products?,Energy Savings
+Do you have energy-efficient electric stoves?,Energy Savings
+Can you recommend products that lower electricity consumption?,Energy Savings
+What are the benefits of energy-efficient appliances?,Energy Savings
+Are your electric heaters certified for energy savings?,Energy Savings
+How do smart thermostats help save energy?,Energy Savings
+What is the energy star rating for your products?,Energy Savings
+Can solar panels reduce my electricity costs?,Energy Savings
+Which LED bulbs are the most energy efficient?,Energy Savings
+Do you provide energy-saving tips for appliances?,Energy Savings
+The product I received was damaged.,Complaint Submission
+I'm unhappy with your customer se,Complaint Submission
+I was sent the wrong item.,Complaint Submission
+The delivery was delayed; this is unacceptable.,Complaint Submission
+My issue hasn't been resolved despite multiple att,Complaint Submission
+The electric stove doesn't match the description on your we,Complaint Submission
+I didn't receive all the items in my ,Complaint Submission
+The technical support team wasn't he,Complaint Submission
+The product failed after just one use; I need assistance.,Complaint Submission
+Your billing system overcharged me; this needs attention.,Complaint Submission
